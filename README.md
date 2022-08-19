@@ -5,7 +5,7 @@
 
 Executar docker-compose:
 ```shell
-docker-compose /src/main/docker/graylog/docker-compose.yml up
+docker-compose ./src/main/docker/graylog/docker-compose.yml up
 ```
 
 Configurar input do graylog:
