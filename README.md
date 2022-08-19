@@ -47,5 +47,5 @@ Acesse o endpoint `http://localhost:8080/hello` para gerar logs e volte para o g
 
 
 Links úteis:
-https://quarkus.io/guides/centralized-log-management
-https://docs.graylog.org/docs/docker
+- https://quarkus.io/guides/centralized-log-management
+- https://docs.graylog.org/docs/docker
